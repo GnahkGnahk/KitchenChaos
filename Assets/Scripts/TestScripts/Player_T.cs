@@ -73,7 +73,7 @@ public class Player_T : MonoBehaviour
 
     void HandleInterraction()
     {
-        
+        Debug.Log("Test 1"); 
     }
 
     void HandleMovement()
